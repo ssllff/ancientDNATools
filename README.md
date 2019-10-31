@@ -1,2 +1,2 @@
 # ancientDNA
-tools for trimming ancient reads, mapping, and analyzing
+Tools for trimming ancient DNA reads, mapping, and analyzing.
